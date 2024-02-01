@@ -35,3 +35,5 @@ There are three set of stateholders: clients, users, developers
 [ ] All documentation use in Markdown format
 
 [ ] Have all assets/images used written somewhere and referenced
+
+[^needswork]: these are all measurable. try again
