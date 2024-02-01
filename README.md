@@ -12,7 +12,7 @@ There are three set of stateholders: clients, users, developers
 
 [ ] Good use of images and gifs
 
-[ ] Needs to be atleast 8 pages INCLUDING Home Page
+[ ] Needs to be atleast 8 pages INCLUDING Home Page [^needswork]
 
 [ ] Need to have a test plan and a backup plan
 
@@ -26,11 +26,11 @@ There are three set of stateholders: clients, users, developers
 
 [ ] Be engaged and have an engaging experience
 
-#### Developer Requirements [^needswork]
+#### Developer Requirements 
 
-[ ] Easy use of coding 
+[ ] Easy use of coding [^needswork]
 
-[ ] Have the coding clean and not all over the place
+[ ] Have the coding clean and not all over the place [^needswork]
 
 [ ] All documentation use in Markdown format
 
