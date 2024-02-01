@@ -26,7 +26,7 @@ There are three set of stateholders: clients, users, developers
 
 [ ] Be engaged and have an engaging experience
 
-#### Developer Requirements
+#### Developer Requirements [^needswork]
 
 [ ] Easy use of coding 
 
@@ -36,4 +36,4 @@ There are three set of stateholders: clients, users, developers
 
 [ ] Have all assets/images used written somewhere and referenced
 
-[^needswork]: these are all measurable. try again
+[^needswork] These need to be improved.
