@@ -4,6 +4,24 @@
 
 ### User Requirements
 
-### Feedback
+There are three set of stateholders: clients, users, developers
 
-Added ! to message as requested
+#### Client Requirements
+
+[ ] Nice, interactive colors
+
+[ ] 
+
+[ ] 
+#### Visitor Requirements
+[ ] Easy to use/navigate
+
+[ ]
+
+[ ]
+#### Developer Requirements
+[ ] Easy use of coding 
+
+[ ]
+
+[ ] 
