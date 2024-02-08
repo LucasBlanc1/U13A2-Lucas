@@ -24,7 +24,7 @@ There are three set of stateholders: clients, users, developers
 
 [ ] Have a well and fun time while using the website
 
-[ ] Be engaged and have an engaging experience gwg
+[ ] Be engaged and have an engaging experience 
 
 #### Developer Requirements 
 
