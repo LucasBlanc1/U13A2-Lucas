@@ -6,6 +6,11 @@
 
 There are three set of stateholders: clients, users, developers
 
+#### Specify
+- Client requirements
+- Visitor requirements
+- Developer requirements
+
 #### Client Requirements
 
 [ ] Nice, interactive colors
@@ -15,6 +20,10 @@ There are three set of stateholders: clients, users, developers
 [ ] Needs to be atleast 8 pages INCLUDING Home Page [^needswork]
 
 [ ] Need to have a test plan and a backup plan
+
+[ ] Description for fonts and why i have chosen them
+
+[ ] 
 
 #### Visitor Requirements
 
