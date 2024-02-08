@@ -23,7 +23,7 @@ There are three set of stateholders: clients, users, developers
 
 [ ] Description for fonts and why i have chosen them
 
-[ ] A design A and a design B
+[ ] A design A and a design B [^needswork]
 
 #### Visitor Requirements
 
