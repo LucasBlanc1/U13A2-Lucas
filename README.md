@@ -45,4 +45,18 @@ There are three set of stateholders: clients, users, developers
 
 [ ] Have all assets/images used written somewhere and referenced
 
+#### Things to do in order
+
+- feedback on choice of design from the client
+
+- Justification
+
+- Test plan
+
+- Build
+
+- Test
+
+- Evaluate
+
 [^needswork] These need to be improved.
